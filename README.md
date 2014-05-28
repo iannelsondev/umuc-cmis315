@@ -3,6 +3,8 @@ umuc-cmis315
 
 Course work for UMUC CMIS315
 
+# DO NOT STEAL MY CODE! DO YOUR OWN WORK!
+
 ### Homework 1
 Write a program that inputs 5 numbers and output the average of the 5 numbers and their product; keep in mind that the result is a floating point number.
 
