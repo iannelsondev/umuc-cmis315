@@ -144,7 +144,7 @@ int planetaryMenu () {
     cout << "3  - Earth"        << endl;
     cout << "4  - Moon"         << endl;
     cout << "5  - Mars"         << endl;
-    cout << "6  - Jupiter"       << endl;
+    cout << "6  - Jupiter"      << endl;
     cout << "7  - Saturn"       << endl;
     cout << "8  - Uranus"       << endl;
     cout << "9  - Neptune"      << endl;
